@@ -1,3 +1,3 @@
-# CapClicks
- Bem-vindo à CapClicks - Sua Janela para Mundos Infinitos!
+# Menu-Responsivo
+ Criando um menu responsivo.
  Acesse: https://maicondutradev.github.io/CapClicks/
