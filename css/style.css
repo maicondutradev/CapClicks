@@ -23,7 +23,7 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;
     background-color: #23232e;
     height: 8vh;
 }
@@ -33,6 +33,7 @@ nav {
     display: flex;
 }
 .nav-list li {
+    padding: 30px;
     letter-spacing: 3px;
     margin-left: 32px;
 }
